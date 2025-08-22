@@ -4,28 +4,27 @@
 
 ## Grob-Planung
 
-1. Für welches der drei Projekte haben Sie sich entschieden?
-2. Wie passen Sie dieses Projekt gem. Ihrer Vorlieben an?
-3. Erklären Sie Ihre Projekt-Idee in einem Satz, als müssen Sie einen Investor davon überzeugen.
+1. Ich nehme Vorschlag 1 mit RPG.
+2. Nicht so schwer, zwei waffen 2-3 spieler klasse, eher console und nicht so kompliziert.
+3. Ein kleines RPG, in dem man eine Klasse und Waffe wählt und danach Kämpfe macht.
 
 ## 22.8
 
-- [ ] Arbeitspaket 1: Erstellen Sie ein Projekt im VS und beginnen Sie mir ersten Code-Skizzen. Das ist wichtig, Sie müssen heute bereits schon C#-Code hochladen!
-- [ ] Arbeitspaket 2: Schreiben Sie eine Liste, welche Klassen und Objekte es braucht, und wie diese miteinander interagieren. Das Format ist Ihnen freigestellt, aber Sie müssen es auch bereits heute auf github laden. (Dieses AP dauert ausnahmsweise nur 15')
-- [ ] Arbeitspaket 3 (Falls Sie den *maker space* besuchen, dann dürfen Sie diesen Punkt löschen. Ansonsten können Sie hier mit dem Coden beginnen, nachdem Sie sich ganz klar überlegt haben, was Ihr erster Schritt ist und den hier als AP festgehalten haben.)
+- [x] Arbeitspaket 1: Erstellen Sie ein Projekt im VS und beginnen Sie mir ersten Code-Skizzen. Das ist wichtig, Sie müssen heute bereits schon C#-Code hochladen!
+- [x] Arbeitspaket 2: Schreiben Sie eine Liste, welche Klassen und Objekte es braucht, und wie diese miteinander interagieren. Das Format ist Ihnen freigestellt, aber Sie müssen es auch bereits heute auf github laden. (Dieses AP dauert ausnahmsweise nur 15')
+- [x] Arbeitspaket 3 (Falls Sie den *maker space* besuchen, dann dürfen Sie diesen Punkt löschen. Ansonsten können Sie hier mit dem Coden beginnen, nachdem Sie sich ganz klar überlegt haben, was Ihr erster Schritt ist und den hier als AP festgehalten haben.)
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, einen ersten Code und Skizze auf github hochzuladen!
+✍️ Heute habe ich an meinem RPG-Projekt in C# gearbeitet. Ich habe verstanden, was Klassen, Objekte, Eigenschaften und Methoden sind und wie sie zusammen sind. Danach habe ich meine eigenen Klassen wie Spieler und Waffe erstellt und begonnen, Methoden wie TakeDamage und RollDamage einzubauen. Außerdem habe ich gelernt, welche using-Anweisung ich wirklich brauche. Am Ende habe ich mir drei Arbeitspakete für die nächste Woche festgelegt, damit ich einen klaren Plan habe, wie ich weitermachen kann.
 
 ## 29.8
 
-- [ ] Arbeitspaket 1
-- [ ] Arbeitspaket 2
-- [ ] Arbeitspaket 3 
+- [ ] KampfSchleife programmieren (Player vs Enemy solange HP unter 0)
+- [ ] Schreibe auf Papier den Ablauf des Kampfes
+- [ ] Ergebnis-Ausgabe verschönern (z. B. Runde anzeigen, Schaden ausgeben, Sieger melden).
 
 📵 Eines dieser Arbeitspakete ist offline.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
