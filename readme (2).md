@@ -18,13 +18,20 @@
 
 ## 29.8
 
-- [ ] KampfSchleife programmieren (Player vs Enemy solange HP unter 0)
-- [ ] Schreibe auf Papier den Ablauf des Kampfes
-- [ ] Ergebnis-Ausgabe verschönern (z. B. Runde anzeigen, Schaden ausgeben, Sieger melden).
+- [x] KampfSchleife programmieren (Player vs Enemy solange HP unter 0)
+- [x] Schreibe auf Papier den Ablauf des Kampfes
+- [x] Ergebnis-Ausgabe verschönern (z. B. Runde anzeigen, Schaden ausgeben, Sieger melden).
 
 📵 Eines dieser Arbeitspakete ist offline.
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich an meinem RPG-Projekt weitergearbeitet und die drei Arbeitspakete gemacht. Zuerst habe ich die Kampfschleife programmiert, in der Spieler und Gegner abwechselnd angreifen, bis einer von beiden keine HP mehr hat. Danach habe ich den Ablauf des Kampfes Runde geplant. Zum Schluss habe ich versucht die Ausgabe verschönert, indem ich pro Runde eine Überschrift, die aktuellen HP von Spieler und Gegner, die Schadensmeldungen sowie am Ende den Sieger und die Anzahl der Runden ausgegeben habe. Damit ist das Spiel viel besser.
 
-☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+## 05.09.25
+
+- [ ] Einen zweiten Gegner einbauen,  damit wenn der Spieler den ersten besiegt , startet automatisch der nächste kampf
+- [ ] Spieler-Klassen hinzufügen, z.B.  beim Start kann man wählen
+- [ ] Eine kleine Skizze machen mit den Werten (HP, Attack, Defense) für Spieler-Klassen und Gegner
+- [ ] Sieg/Niederlagen Ausgabe erweitern 
+
+
 
