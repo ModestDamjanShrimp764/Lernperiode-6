@@ -28,10 +28,11 @@
 
 ## 05.09.25
 
-- [ ] Einen zweiten Gegner einbauen,  damit wenn der Spieler den ersten besiegt , startet automatisch der nächste kampf
-- [ ] Spieler-Klassen hinzufügen, z.B.  beim Start kann man wählen
-- [ ] Eine kleine Skizze machen mit den Werten (HP, Attack, Defense) für Spieler-Klassen und Gegner
-- [ ] Sieg/Niederlagen Ausgabe erweitern 
+- [ ] Zweiten Gegner mit eigenen Werten hinzufügen, nach Sieg über ersten Gegner startet automatisch der nächste Kampf
+- [ ] Spieler-Klassen einbauen. Klassen „Krieger“ und Naruto erstellen und im Startmenü wählbar machen
+- [ ] Übersichtstabelle mit Werten (HP, Attack, Defense) für Spieler-Klassen und Gegner auf Papier erstellen
+- [ ] Sieg/Niederlagen Ausgabe erweitern. Am Ende Rundenanzahl, Gesamtschaden und Rest-HP anzeigen, Ausgabe auch übersichtlicher gestalten
+
 
 
 
