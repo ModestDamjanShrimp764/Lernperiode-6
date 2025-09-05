@@ -28,10 +28,25 @@
 
 ## 05.09.25
 
-- [ ] Zweiten Gegner mit eigenen Werten hinzufügen, nach Sieg über ersten Gegner startet automatisch der nächste Kampf
-- [ ] Spieler-Klassen einbauen. Klassen „Krieger“ und Naruto erstellen und im Startmenü wählbar machen
-- [ ] Übersichtstabelle mit Werten (HP, Attack, Defense) für Spieler-Klassen und Gegner auf Papier erstellen
-- [ ] Sieg/Niederlagen Ausgabe erweitern. Am Ende Rundenanzahl, Gesamtschaden und Rest-HP anzeigen, Ausgabe auch übersichtlicher gestalten
+- [x] Zweiten Gegner mit eigenen Werten hinzufügen, nach Sieg über ersten Gegner startet automatisch der nächste Kampf
+- [x] Spieler-Klassen einbauen. Klassen „Krieger“ und Naruto erstellen und im Startmenü wählbar machen
+- [x] Übersichtstabelle mit Werten (HP, Attack, Defense) für Spieler-Klassen und Gegner auf Papier erstellen
+- [x] Sieg/Niederlagen Ausgabe erweitern. Am Ende Rundenanzahl, Gesamtschaden und Rest-HP anzeigen, Ausgabe auch übersichtlicher gestalten
+
+Heute habe ich an meinem RPG-Projekt in C# weitergearbeitet und neue Funktionen eingebaut. Danach habe ich das Kampfsystem erweitert, sodass nach dem ersten Gegner automatisch ein zweiter Gegner erscheint. Zum Schluss habe ich die Sieg- und Niederlagen-Ausgabe verbessert. Am Ende jedes Kampfes wird jetzt die Anzahl der Runden, der gesamte verursachte Schaden und die verbleibenden HP angezeigt. Dadurch ist das Spiel übersichtlicher und besser.
+![WhatsApp Bild 2025-09-05 um 11 50 09_3a0ae144](https://github.com/user-attachments/assets/aba18094-968b-4a20-907a-86e42c98470b)
+
+
+
+## 12.09.25
+
+- [ ] Methode Kampf() schreiben, die einen ganzen Kampf macht und Sieg/Niederlage zurückgibt
+- [ ] Im Startmenü mehrere Waffen zur Wahl anbieten und dem Spieler zuordnen können (Waffenaushwahl)
+- [ ] Liste mit mehreren Gegnern erstellen, nacheinander abkämpfen lassen (Gegnerliste)
+- [ ] Werte-Tabelle für Spieler-Klassen, Waffen und Gegner auf Papier dokumentieren
+
+
+
 
 
 
