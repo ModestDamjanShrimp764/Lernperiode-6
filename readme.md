@@ -14,7 +14,7 @@
 - [x] Arbeitspaket 2: Schreiben Sie eine Liste, welche Klassen und Objekte es braucht, und wie diese miteinander interagieren. Das Format ist Ihnen freigestellt, aber Sie müssen es auch bereits heute auf github laden. (Dieses AP dauert ausnahmsweise nur 15')
 - [x] Arbeitspaket 3 (Falls Sie den *maker space* besuchen, dann dürfen Sie diesen Punkt löschen. Ansonsten können Sie hier mit dem Coden beginnen, nachdem Sie sich ganz klar überlegt haben, was Ihr erster Schritt ist und den hier als AP festgehalten haben.)
 
-✍️ Heute habe ich an meinem RPG-Projekt in C# gearbeitet. Ich habe verstanden, was Klassen, Objekte, Eigenschaften und Methoden sind und wie sie zusammen sind. Danach habe ich meine eigenen Klassen wie Spieler und Waffe erstellt und begonnen, Methoden wie TakeDamage und RollDamage einzubauen. Außerdem habe ich gelernt, welche using-Anweisung ich wirklich brauche. Am Ende habe ich mir drei Arbeitspakete für die nächste Woche festgelegt, damit ich einen klaren Plan habe, wie ich weitermachen kann.
+Heute habe ich an meinem RPG-Projekt in C# gearbeitet. Ich habe verstanden, was Klassen, Objekte, Eigenschaften und Methoden sind und wie sie zusammen sind. Danach habe ich meine eigenen Klassen wie Spieler und Waffe erstellt und begonnen, Methoden wie TakeDamage und RollDamage einzubauen. Außerdem habe ich gelernt, welche using-Anweisung ich wirklich brauche. Am Ende habe ich mir drei Arbeitspakete für die nächste Woche festgelegt, damit ich einen klaren Plan habe, wie ich weitermachen kann.
 
 ## 29.8
 
@@ -22,9 +22,7 @@
 - [x] Schreibe auf Papier den Ablauf des Kampfes
 - [x] Ergebnis-Ausgabe verschönern (z. B. Runde anzeigen, Schaden ausgeben, Sieger melden).
 
-📵 Eines dieser Arbeitspakete ist offline.
-
-✍️ Heute habe ich an meinem RPG-Projekt weitergearbeitet und die drei Arbeitspakete gemacht. Zuerst habe ich die Kampfschleife programmiert, in der Spieler und Gegner abwechselnd angreifen, bis einer von beiden keine HP mehr hat. Danach habe ich den Ablauf des Kampfes Runde geplant. Zum Schluss habe ich versucht die Ausgabe verschönert, indem ich pro Runde eine Überschrift, die aktuellen HP von Spieler und Gegner, die Schadensmeldungen sowie am Ende den Sieger und die Anzahl der Runden ausgegeben habe. Damit ist das Spiel viel besser.
+Heute habe ich an meinem RPG-Projekt weitergearbeitet und die drei Arbeitspakete gemacht. Zuerst habe ich die Kampfschleife programmiert, in der Spieler und Gegner abwechselnd angreifen, bis einer von beiden keine HP mehr hat. Danach habe ich den Ablauf des Kampfes Runde geplant. Zum Schluss habe ich versucht die Ausgabe verschönert, indem ich pro Runde eine Überschrift, die aktuellen HP von Spieler und Gegner, die Schadensmeldungen sowie am Ende den Sieger und die Anzahl der Runden ausgegeben habe. Damit ist das Spiel viel besser.
 
 ## 05.09.25
 
@@ -40,10 +38,22 @@ Heute habe ich an meinem RPG-Projekt in C# weitergearbeitet und neue Funktionen 
 
 ## 12.09.25
 
-- [ ] Methode Kampf() schreiben, die einen ganzen Kampf macht und Sieg/Niederlage zurückgibt
-- [ ] Im Startmenü mehrere Waffen zur Wahl anbieten und dem Spieler zuordnen können (Waffenaushwahl)
-- [ ] Liste mit mehreren Gegnern erstellen, nacheinander abkämpfen lassen (Gegnerliste)
-- [ ] Werte-Tabelle für Spieler-Klassen, Waffen und Gegner auf Papier dokumentieren
+- [x] Methode Kampf() schreiben, die einen ganzen Kampf macht und Sieg/Niederlage zurückgibt
+- [x] Im Startmenü mehrere Waffen zur Wahl anbieten und dem Spieler zuordnen können (Waffenaushwahl)
+- [x] Liste mit mehreren Gegnern erstellen, nacheinander abkämpfen lassen (Gegnerliste)
+- [x] Werte-Tabelle für Spieler-Klassen, Waffen und Gegner auf Papier dokumentieren
+
+Heute habe ich an meinem RPG-Projekt weitergearbeitet. Ich habe das Kampfsystem in eine Methode gemacht, damit der Code übersichtlicher ist. Danach habe ich ein Waffen-Auswahlmenü eingebaut, sodass man zwischen Schwert und Axt      wählen kann. Anschließend habe ich eine Liste mit mehreren Gegnern erstellt, gegen die man nacheinander kämpft. Zum Schluss habe ich eine Werte-Tabelle für Spieler, Waffen und Gegner gemacht, die ich auf Papier gemacht habe.
+![Image](https://github.com/user-attachments/assets/4061e4f6-f20e-474d-837a-61829762ca86)
+
+## 19.09.25
+
+- [ ] Verteidigungssystem einbauen., Spieler und Gegner bekommen eine Defense-Eigenschaft, Schaden wird um Defense reduziert
+- [ ] Heiltrank einfügen, Spieler kann einmal pro Kampf einen Trank benutzen, der +30 HP gibt
+- [ ] Neue Waffen hinzufügen z. B. Bogen (3–12) und Dolch (1-8), Auswahl im Startmenü
+- [ ] Levelsystem, Nach jedem Sieg steigt der Spieler ein Level auf (+10 HP, +2 Attack)
+
+
 
 
 
