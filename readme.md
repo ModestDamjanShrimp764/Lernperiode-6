@@ -48,10 +48,18 @@ Heute habe ich an meinem RPG-Projekt weitergearbeitet. Ich habe das Kampfsystem 
 
 ## 19.09.25
 
-- [ ] Verteidigungssystem einbauen., Spieler und Gegner bekommen eine Defense-Eigenschaft, Schaden wird um Defense reduziert
-- [ ] Heiltrank einfügen, Spieler kann einmal pro Kampf einen Trank benutzen, der +30 HP gibt
-- [ ] Neue Waffen hinzufügen z. B. Bogen (3–12) und Dolch (1-8), Auswahl im Startmenü
-- [ ] Levelsystem, Nach jedem Sieg steigt der Spieler ein Level auf (+10 HP, +2 Attack)
+- [x] Verteidigungssystem einbauen., Spieler und Gegner bekommen eine Defense-Eigenschaft, Schaden wird um Defense reduziert
+- [x] Heiltrank einfügen, Spieler kann einmal pro Kampf einen Trank benutzen, der +30 HP gibt
+- [x] Neue Waffen hinzufügen z. B. Bogen (3–12) und Dolch (1-8), Auswahl im Startmenü
+- [x] Levelsystem, Nach jedem Sieg steigt der Spieler ein Level auf (+10 HP, +2 Attack)
+
+Heute habe ich an meinem RPG-Projekt in C# weitergearbeitet und neue Funktionen verbessert. Zuerst haben wir das Levelsystem eingebaut, sodass der Spieler nach einem Sieg aufsteigt und stärkere Werte bekommt. Zum Schluss haben wir die Fehler im Projekt angeschaut, die durch doppelte Klassen (Program, Waffe) und eine falsche Verwendung von RollDamage entstanden sind. Jetzt weiß ich, wie ich die Fehler beheben kann, damit das Projekt wieder ohne Probleme läuft. 
+
+## 17.10.25
+
+- [ ] Mehr Heiltränke einbauen. Spieler startet mit 3 Tränken, Anzahl soll im Kampf immer angezeigt werden
+- [ ] Neuen Gegner hinzufügen z. B. Drache mit hohen Werten (HP, Attack, Defense) in die Gegnerliste aufnehmen
+- [ ] Gesamtauswertung am Spielende. Anzahl Kämpfe, gewonnene/ verlorene Kämpfe, Erreichten Level anzeigen
 
 
 
