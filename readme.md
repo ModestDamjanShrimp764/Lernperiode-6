@@ -57,9 +57,17 @@ Heute habe ich an meinem RPG-Projekt in C# weitergearbeitet und neue Funktionen 
 
 ## 17.10.25
 
-- [ ] Mehr Heiltränke einbauen. Spieler startet mit 3 Tränken, Anzahl soll im Kampf immer angezeigt werden
-- [ ] Neuen Gegner hinzufügen z. B. Drache mit hohen Werten (HP, Attack, Defense) in die Gegnerliste aufnehmen
-- [ ] Gesamtauswertung am Spielende. Anzahl Kämpfe, gewonnene/ verlorene Kämpfe, Erreichten Level anzeigen
+- [X] Mehr Heiltränke einbauen. Spieler startet mit 3 Tränken, Anzahl soll im Kampf immer angezeigt werden
+- [X] Neuen Gegner hinzufügen z. B. Drache mit hohen Werten (HP, Attack, Defense) in die Gegnerliste aufnehmen
+- [X] Die Fehler überprüfen und schauen das alles einwandfrei funktioniert
+
+### Fertiges Projekt
+Ich habe ein RPG-Spiel in C# gemacht. Am Anfang kann man eine Klasse auswählen also den Spieler, zum Beispiel Vincent oder Joshua, danach noch eine Waffe wie Schwert oder Axt. Dann kämpft man gegen verschiedene Gegner z. B. Peter, Hans, Ork und am Ende gegen einen Drachen. Man kann im Kampf auch Heiltränke benutzen, was echt gut ist, finde ich. Wenn man einen Gegner besiegt, steigt man ein Level auf und bekommt mehr Leben und macht mehr Schaden. Am Ende zeigt das Spiel, dass man gewonnen hat und gratuliert dir für deinen Sieg. Ich finde das Projekt ist echt gut geworden, weil ich viel über Klassen, Methoden und das Programmieren allgemein gelernt habe.
+
+![PROJEKT OOP RPG](https://github.com/user-attachments/assets/df040036-611d-4bf8-b0d7-b90ce74f3163)
+
+### Reflexion
+Am Anfang hatte ich ehrlich gesagt Mühe vor allem mit den Methoden und den vielen Fehlern. Es gab auch Probleme mit der RollDamage()-Funktion, aber ich habe es behebt und gerlernt wie. Jetzt verstehe ich, wie man ein Programm richtig aufbaut und wie man mit Klassen arbeitet. Ich bin richtig zufrieden mit meinem Spiel, weil jetzt alles funktioniert: Waffenwahl, Heiltränke, Levelsystem und Gegner. Vielleicht würde ich es noch irgendwann weiterprogrammieren, wenn ich Zeit in meiner Freizeit dazu finde.
 
 
 
